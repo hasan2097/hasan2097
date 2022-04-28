@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasan2097
+- 👋 Hi, I’m Hasan
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL, R, and Phyton (basic)
 - 💞️ I’m looking to collaborate on a project or job in data analytics fields
